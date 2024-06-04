@@ -1,0 +1,5 @@
+class Mydependency{
+  fun sayHello():String{
+   return "hello this is dummy dependency by Ojaswa"
+ }
+}
